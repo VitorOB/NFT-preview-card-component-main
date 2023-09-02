@@ -20,7 +20,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Live Site URL: [https://vitorob.github.io/QR-code-component/](https://vitorob.github.io/QR-code-component/)
+- Live Site URL: [https://vitorob.github.io/NFT-preview-card-component-main/](https://vitorob.github.io/NFT-preview-card-component-main/)
 
 ## My process
 
